@@ -1,7 +1,7 @@
-# Ex21 Representation of Graph
+# Ex21 Count the Number of Nodes in the Left Subtree of a Binary Tree
 ## DATE:
 ## AIM:
-To write a C program to display the adjacency matrix of the given graph by supplying the edges and the number of vertices.
+To design and implement a java program that constructs a binary tree from given level order input and counts the number of nodes present in the left subtree of the root node
 
 ## Algorithm
 1. 
@@ -13,7 +13,7 @@ To write a C program to display the adjacency matrix of the given graph by suppl
 ## Program:
 ```
 /*
-Program to display the adjacency matrix of the given graph
+Program to constructs a binary tree from given level order input and counts the number of nodes 
 Developed by: 
 RegisterNumber:  
 */
@@ -24,4 +24,5 @@ RegisterNumber:
 
 
 ## Result:
-Thus, the C program to print the adjacency matrix of the given graph is implemented successfully.
+The program has been successfully implemented and executed.
+It correctly constructs the binary tree from level order input and counts the number of nodes in the left subtree of the root node.
