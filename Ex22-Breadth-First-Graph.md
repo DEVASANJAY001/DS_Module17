@@ -1,11 +1,7 @@
-# Ex22 Breadth First Graph
+# Ex22 Searching for a Book ID in a Binary Search Tree (BST)
 ## DATE:
 ## AIM:
-To write a printQueue C function of the given graph that is to be traversed in the breadth first manner.
-
-![image](https://github.com/user-attachments/assets/f483f48c-6af0-4027-a993-01c108a50933)
-
-
+To design and implement java program that constructs a Binary Search Tree (BST) using given Book IDs and checks whether a specific Book ID exists in the BST.
 ## Algorithm
 1. 
 2. 
@@ -16,7 +12,7 @@ To write a printQueue C function of the given graph that is to be traversed in t
 ## Program:
 ```
 /*
-Program to traverse graph using BFS
+Program to constructs a Binary Search Tree (BST) using given Book IDs 
 Developed by: 
 RegisterNumber:  
 */
@@ -27,4 +23,5 @@ RegisterNumber:
 
 
 ## Result:
-Thus, the code for the printQueue function of the following graph that is to be traversed in the breadth first manner is implemented successfully.
+The program has been successfully implemented and executed.
+It constructs a Binary Search Tree from the given Book IDs and accurately determines whether a queried Book ID exists in the library system.
